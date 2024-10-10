@@ -15,9 +15,3 @@ This project is a simple Twitter clone built with React and Firebase. Users can 
 # Screenshots
 
 ![](1.jpg)
-
-# Vercel
-
-https://twitter-clone-firebase-alpha.vercel.app/
-
-## Gif
